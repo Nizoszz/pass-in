@@ -66,7 +66,7 @@ public class EventServiceImpl implements EventService {
     private String createSlug(String text) {
         String normalized = Normalizer.normalize(text, Normalizer.Form.NFD);
         return normalized.replaceAll("[\\{InCOMBINING_DIACRITICAL_MARKS}]", "")
-                .replaceAll("_", "")
+                .replaceAll("[^\\w\\s]", "")
                 .replaceAll("\\s+", "-")
                 .toLowerCase();
     }
