@@ -30,7 +30,7 @@ Para acessar a documentação basta clicar no link abaixo:
 https://pass-in-render.onrender.com/swagger-ui/index.html
 
 ## DER
-<https://efficient-sloth-d85.notion.site/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F08f749ff-d06d-49a8-a488-9846e081b224%2F2ba0ffe6-d8d9-465b-a6c0-c92286d84ec3%2Ferd.svg?table=block&id=f08dcda4-fbc0-4217-aed4-e7e9f54e90bc&spaceId=08f749ff-d06d-49a8-a488-9846e081b224&userId=&cache=v2>
+Diagrama: <https://encurtador.com.br/ltxEQ>
 
 ## Tecnologias utilizadas
 - HSQLDB
